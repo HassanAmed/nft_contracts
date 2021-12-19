@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.3",
+    "@poanet/solidity-flattener": "^3.0.6",
+    "truffle-flattener": "^1.5.0"
+  }
+}
